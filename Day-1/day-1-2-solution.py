@@ -1,10 +1,14 @@
-#Write your code below this line 👇
-print("Day 1 - Python Print Function")
-print("The function is declared like this:")
-print("print('what to print')")
+#1. Missing double quotes before the word Day.
+print("Day 1 - String Manipulation")
 
+#2. Outer double quotes changed to single quotes.
+print('String Concatenation is done with the "+" sign.')
 
+#3. Extra indentation removed
+print('e.g. print("Hello " + "world")')
 
+#4. Extra ( in print function removed.
+print("New lines can be created with a backslash and n.")
 
 
 
@@ -27,12 +31,14 @@ print("print('what to print')")
 
 #Write your code above this line 👆
 # 🚨 Do NOT modify the code below this line 👇
+
 with open("testing_copy.py", "w") as file:
   file.write("def test_func():\n")
-  with open("day-1-1-solution.py", "r") as original:
-    f2 = original.readlines()[0:8]
+  with open("day-1-2-solution.py", "r") as original:
+    f2 = original.readlines()[0:30]
     for x in f2:
       file.write("    " + x)
+
 
 import testing_copy
 import unittest
@@ -44,13 +50,13 @@ class MyTest(unittest.TestCase):
   def test_1(self):
     with patch('sys.stdout', new = StringIO()) as fake_out:
       testing_copy.test_func()
-      expected_print = "Day 1 - Python Print Function\nThe function is declared like this:\nprint('what to print')\n"
+      expected_print = 'Day 1 - String Manipulation\nString Concatenation is done with the "+" sign.\ne.g. print("Hello " + "world")\nNew lines can be created with a backslash and n.\n'
       self.assertEqual(fake_out.getvalue(), expected_print)
 
-print("\n\n")
+print("\n\n\n.\n.\n.")
 print('Checking if what you printed matches the target output *exactly*...')
 print('Running some tests on your code:')
-print(".\n.\n.\n.")
+print(".\n.\n.")
 unittest.main(verbosity=1, exit=False)
 
 os.remove("testing_copy.py")
