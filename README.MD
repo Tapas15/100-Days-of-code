@@ -11,4 +11,4 @@ I <a href="https://github.com/Tapas15/100-Days-of-code/blob/master/Day-1/2.1%20A
 
 ## Contents
 
-[1. Day 1 - Beginner - Working with Variables in Python to Manage Data](https://github.com/Tapas15/100-Days-of-code/tree/master/Day-1)
+[Day 1 - Beginner - Working with Variables in Python to Manage Data](https://github.com/Tapas15/100-Days-of-code/tree/master/Day-1)
