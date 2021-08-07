@@ -12,3 +12,4 @@ I <a href="https://github.com/Tapas15/100-Days-of-code/blob/master/Day-1/2.1%20A
 ## Contents
 
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data](href="https://github.com/Tapas15/100-Days-of-code/tree/master/Day-1")
+- [Go to Real Cool Heading section](#real-cool-heading)
