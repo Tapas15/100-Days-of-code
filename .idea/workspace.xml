@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cad3d566-84f6-46a1-bc69-7806bd223618" name="Default Changelist" comment="day49">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cad3d566-84f6-46a1-bc69-7806bd223618" name="Default Changelist" comment="day50" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,13 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628321714083</updated>
-    </task>
-    <task id="LOCAL-00042" summary="day17">
-      <created>1628404208548</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1628404208548</updated>
     </task>
     <task id="LOCAL-00043" summary="day18">
       <created>1628404251983</created>
@@ -482,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633075522802</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="day50">
+      <created>1633076460849</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1633076460849</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +497,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day23" />
     <MESSAGE value="day20" />
     <MESSAGE value="day21" />
     <MESSAGE value="day24" />
@@ -524,6 +521,7 @@
     <MESSAGE value="day47" />
     <MESSAGE value="day48" />
     <MESSAGE value="day49" />
-    <option name="LAST_COMMIT_MESSAGE" value="day49" />
+    <MESSAGE value="day50" />
+    <option name="LAST_COMMIT_MESSAGE" value="day50" />
   </component>
 </project>
