@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cad3d566-84f6-46a1-bc69-7806bd223618" name="Default Changelist" comment="day56">
+    <list default="true" id="cad3d566-84f6-46a1-bc69-7806bd223618" name="Default Changelist" comment="day44">
+      <change afterPath="$PROJECT_DIR$/Day-57/age-gender/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/age-gender/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/age-gender/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-end/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-end/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-end/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-end/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-end/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-start/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-start/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-start/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating-start/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog-templating/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/blog/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/day-57-end/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/day-57-end/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/day-57-end/templates/guess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/day-57-end/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-57/day-57-start/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,34 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628321714083</updated>
-    </task>
-    <task id="LOCAL-00052" summary="day22">
-      <created>1628411636703</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1628411636703</updated>
-    </task>
-    <task id="LOCAL-00053" summary="day19">
-      <created>1628412472258</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1628412472258</updated>
-    </task>
-    <task id="LOCAL-00054" summary="day23">
-      <created>1628412483263</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1628412483263</updated>
-    </task>
-    <task id="LOCAL-00055" summary="day20">
-      <created>1628413193952</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1628413193953</updated>
     </task>
     <task id="LOCAL-00056" summary="day24">
       <created>1628413206106</created>
@@ -489,7 +486,35 @@
       <option name="project" value="LOCAL" />
       <updated>1633080069219</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="day41">
+      <created>1633080540123</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1633080540123</updated>
+    </task>
+    <task id="LOCAL-00102" summary="day42">
+      <created>1633080679953</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1633080679953</updated>
+    </task>
+    <task id="LOCAL-00103" summary="day43">
+      <created>1633080840830</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1633080840830</updated>
+    </task>
+    <task id="LOCAL-00104" summary="day44">
+      <created>1633080999418</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1633080999418</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,10 +531,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day28" />
-    <MESSAGE value="day30" />
-    <MESSAGE value="day31" />
-    <MESSAGE value="day29" />
     <MESSAGE value="day32" />
     <MESSAGE value="day33" />
     <MESSAGE value="day34" />
@@ -531,6 +552,10 @@
     <MESSAGE value="day54" />
     <MESSAGE value="day55" />
     <MESSAGE value="day56" />
-    <option name="LAST_COMMIT_MESSAGE" value="day56" />
+    <MESSAGE value="day41" />
+    <MESSAGE value="day42" />
+    <MESSAGE value="day43" />
+    <MESSAGE value="day44" />
+    <option name="LAST_COMMIT_MESSAGE" value="day44" />
   </component>
 </project>
