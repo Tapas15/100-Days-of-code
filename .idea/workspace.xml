@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cad3d566-84f6-46a1-bc69-7806bd223618" name="Default Changelist" comment="day36" />
+    <list default="true" id="cad3d566-84f6-46a1-bc69-7806bd223618" name="Default Changelist" comment="day39">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,34 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628321714083</updated>
-    </task>
-    <task id="LOCAL-00028" summary="day6">
-      <created>1628346800736</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1628346800736</updated>
-    </task>
-    <task id="LOCAL-00029" summary="day7">
-      <created>1628347489694</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1628347489694</updated>
-    </task>
-    <task id="LOCAL-00030" summary="day8">
-      <created>1628353624367</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1628353624367</updated>
-    </task>
-    <task id="LOCAL-00031" summary="day9">
-      <created>1628359163217</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1628359163217</updated>
     </task>
     <task id="LOCAL-00032" summary="day10">
       <created>1628361984163</created>
@@ -480,7 +454,35 @@
       <option name="project" value="LOCAL" />
       <updated>1633066722233</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="day37">
+      <created>1633067551962</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1633067551962</updated>
+    </task>
+    <task id="LOCAL-00078" summary="day38">
+      <created>1633067566468</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1633067566468</updated>
+    </task>
+    <task id="LOCAL-00079" summary="day38">
+      <created>1633067576082</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1633067576082</updated>
+    </task>
+    <task id="LOCAL-00080" summary="day39">
+      <created>1633068526166</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1633068526166</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,9 +499,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day12" />
-    <MESSAGE value="day13" />
-    <MESSAGE value="day14" />
     <MESSAGE value="day15" />
     <MESSAGE value="day16" />
     <MESSAGE value="day17" />
@@ -522,6 +521,9 @@
     <MESSAGE value="day34" />
     <MESSAGE value="day35" />
     <MESSAGE value="day36" />
-    <option name="LAST_COMMIT_MESSAGE" value="day36" />
+    <MESSAGE value="day37" />
+    <MESSAGE value="day38" />
+    <MESSAGE value="day39" />
+    <option name="LAST_COMMIT_MESSAGE" value="day39" />
   </component>
 </project>
