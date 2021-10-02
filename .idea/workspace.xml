@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cad3d566-84f6-46a1-bc69-7806bd223618" name="Default Changelist" comment="day74" />
+    <list default="true" id="cad3d566-84f6-46a1-bc69-7806bd223618" name="Default Changelist" comment="day75" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,20 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628321714083</updated>
-    </task>
-    <task id="LOCAL-00081" summary="day40">
-      <created>1633068718480</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1633068718480</updated>
-    </task>
-    <task id="LOCAL-00082" summary="day45">
-      <created>1633071392102</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1633071392103</updated>
     </task>
     <task id="LOCAL-00083" summary="day45">
       <created>1633071399078</created>
@@ -487,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633155962352</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="day74">
+      <created>1633155995793</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1633155995793</updated>
+    </task>
+    <task id="LOCAL-00131" summary="day75">
+      <created>1633156267706</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1633156267706</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +504,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day55" />
     <MESSAGE value="day56" />
     <MESSAGE value="day41" />
     <MESSAGE value="day42" />
@@ -529,6 +528,7 @@
     <MESSAGE value="day72" />
     <MESSAGE value="day73" />
     <MESSAGE value="day74" />
-    <option name="LAST_COMMIT_MESSAGE" value="day74" />
+    <MESSAGE value="day75" />
+    <option name="LAST_COMMIT_MESSAGE" value="day75" />
   </component>
 </project>
